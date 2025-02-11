@@ -61,11 +61,11 @@ def main():
 
     while True:
         print("\n📝 TO-DO LIST")
-        print("1️ Pridať úlohu")
-        print("2️ Zobraziť úlohy")
-        print("3️ Označiť úlohu ako dokončenú")
-        print("4️ Vymazať úlohu")
-        print("5️ Ukončiť")
+        print("1 Pridať úlohu")
+        print("2 Zobraziť úlohy")
+        print("3 Označiť úlohu ako dokončenú")
+        print("4 Vymazať úlohu")
+        print("5 Ukončiť")
 
         choice = input("👉 Vyber možnosť: ")
 
